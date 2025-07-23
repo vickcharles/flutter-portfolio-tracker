@@ -10,23 +10,8 @@ The project requires the following components to be installed and configured:
 
 Flutter: The project requires Flutter SDK to be installed on the system. The current version of Flutter installed on the system should be stable, 3.3.4.
 
+
 **Step 1:**
-
-Download or clone this repo by using the link below:
-
-```
-https://github.com/vickcharles/assetdash-mobile-takehome-main.git
-```
-
-**Step 2:**
-
-Go to project root and execute the following command in console to get the required dependencies:
-
-```
-flutter pub get
-```
-
-**Step 3:**
 
 Run the project
 
